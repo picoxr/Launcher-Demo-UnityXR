@@ -13,7 +13,7 @@
 
 ## Description:
 
-This demo is for developers' reference on how to implement their own launcher. It contains wifi connection status, bluetooth connection status, controller connection status, VR settings, battery indicator, time indicator and poster customization.
+This demo is for developers' reference on how to implement their own launcher. It contains wifi connection status, bluetooth connection status, controller connection status, VR settings, battery indicator, time indicator and app icons.
 
  <img src="./ReadMeScreenshot/1.jpeg"  width = "600"/>
 
