@@ -5,7 +5,7 @@
 ## Environment：
 
 - Unity 2019.4.24f1c1
-- Pico Unity XR SDK v2.0.1
+- Unity XR SDK v2.0.1
 
 ## Applicable devices:
 
@@ -22,6 +22,6 @@ This demo is for developers' reference on how to implement their own launcher. I
 Scene: Assets->Project->Scene->Scene
 
 ## Note:
-The Pico Unity XR SDK v2.0.1 needs to be imported manually. For details about the latest SDK download address and documentation, see the following links:
+The Unity XR SDK v2.0.1 needs to be imported manually. For details about the latest SDK download address and documentation, see the following links:
 https://developer.pico-interactive.com/sdk
 
