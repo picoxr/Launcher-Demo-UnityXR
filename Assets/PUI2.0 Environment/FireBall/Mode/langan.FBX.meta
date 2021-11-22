@@ -1,0 +1,273 @@
+fileFormatVersion: 2
+guid: 140baef393d07ad4a899d01e6e64e29a
+timeCreated: 1491985046
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: 002
+    100004: Bone001
+    100006: Bone002
+    100008: Bone003
+    100010: Bone004
+    100012: Bone005
+    100014: Bone006
+    100016: Bone007
+    100018: Bone008
+    100020: Box003
+    100022: Glass_004
+    100024: Glass_005
+    100026: Glass_03
+    100028: IK Chain001
+    100030: IK Chain001 1
+    100032: IK Chain001 2
+    100034: object
+    100036: Object001
+    100038: Object002
+    100040: Object003
+    100042: Object007
+    100044: Object014
+    100046: Object025
+    100048: Object031
+    100050: Object032
+    100052: Object033
+    100054: Object034
+    100056: Object035
+    100058: Object038
+    100060: Object039
+    100062: Object040
+    100064: Object041
+    100066: Object042
+    100068: Object043
+    100070: Object044
+    100072: Object045
+    100074: Point001
+    100076: Point001 1
+    100078: Point001 2
+    100080: Point002
+    100082: Point002 1
+    100084: Point002 2
+    100086: Point003
+    100088: Point003 1
+    100090: Point003 2
+    100092: Point004
+    100094: Point004 1
+    100096: Point004 2
+    100098: Point005
+    100100: Point005 1
+    100102: Point005 2
+    100104: Point006
+    100106: Point006 1
+    100108: Point006 2
+    100110: Point007
+    100112: Point007 1
+    100114: Point007 2
+    100116: Point008
+    100118: Point008 1
+    100120: Point008 2
+    100122: SplineIKNode001
+    100124: SplineIKNode001 1
+    100126: SplineIKNode001 2
+    400000: //RootNode
+    400002: 002
+    400004: Bone001
+    400006: Bone002
+    400008: Bone003
+    400010: Bone004
+    400012: Bone005
+    400014: Bone006
+    400016: Bone007
+    400018: Bone008
+    400020: Box003
+    400022: Glass_004
+    400024: Glass_005
+    400026: Glass_03
+    400028: IK Chain001
+    400030: IK Chain001 1
+    400032: IK Chain001 2
+    400034: object
+    400036: Object001
+    400038: Object002
+    400040: Object003
+    400042: Object007
+    400044: Object014
+    400046: Object025
+    400048: Object031
+    400050: Object032
+    400052: Object033
+    400054: Object034
+    400056: Object035
+    400058: Object038
+    400060: Object039
+    400062: Object040
+    400064: Object041
+    400066: Object042
+    400068: Object043
+    400070: Object044
+    400072: Object045
+    400074: Point001
+    400076: Point001 1
+    400078: Point001 2
+    400080: Point002
+    400082: Point002 1
+    400084: Point002 2
+    400086: Point003
+    400088: Point003 1
+    400090: Point003 2
+    400092: Point004
+    400094: Point004 1
+    400096: Point004 2
+    400098: Point005
+    400100: Point005 1
+    400102: Point005 2
+    400104: Point006
+    400106: Point006 1
+    400108: Point006 2
+    400110: Point007
+    400112: Point007 1
+    400114: Point007 2
+    400116: Point008
+    400118: Point008 1
+    400120: Point008 2
+    400122: SplineIKNode001
+    400124: SplineIKNode001 1
+    400126: SplineIKNode001 2
+    2300000: //RootNode
+    2300002: 002
+    2300004: Box003
+    2300006: Glass_004
+    2300008: Glass_005
+    2300010: Glass_03
+    2300012: Object001
+    2300014: Object002
+    2300016: Object003
+    2300018: Object007
+    2300020: Object014
+    2300022: Object031
+    2300024: Object032
+    2300026: Object033
+    2300028: Object034
+    2300030: Object035
+    2300032: Object038
+    2300034: Object039
+    2300036: Object040
+    2300038: Object041
+    2300040: Object042
+    2300042: Object043
+    2300044: Object044
+    2300046: Object045
+    3300000: //RootNode
+    3300002: 002
+    3300004: Box003
+    3300006: Glass_004
+    3300008: Glass_005
+    3300010: Glass_03
+    3300012: Object001
+    3300014: Object002
+    3300016: Object003
+    3300018: Object007
+    3300020: Object014
+    3300022: Object031
+    3300024: Object032
+    3300026: Object033
+    3300028: Object034
+    3300030: Object035
+    3300032: Object038
+    3300034: Object039
+    3300036: Object040
+    3300038: Object041
+    3300040: Object042
+    3300042: Object043
+    3300044: Object044
+    3300046: Object045
+    4300000: Object044
+    4300002: 002
+    4300004: Glass_03
+    4300006: Object001
+    4300008: Object002
+    4300010: Object003
+    4300012: Object007
+    4300014: Object014
+    4300016: Object031
+    4300018: Object032
+    4300020: Object033
+    4300022: Object034
+    4300024: Object035
+    4300026: Object038
+    4300028: Object039
+    4300030: Object040
+    4300032: Object041
+    4300034: Glass_004
+    4300036: Glass_005
+    4300038: Object042
+    4300040: Object043
+    4300042: Box003
+    4300044: Object025
+    4300046: Object045
+    9500000: //RootNode
+    13700000: Object025
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
