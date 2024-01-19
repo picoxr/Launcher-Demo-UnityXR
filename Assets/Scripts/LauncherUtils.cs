@@ -17,9 +17,14 @@ public class LauncherUtils : MonoBehaviour
         PXR_Enterprise.StartVrSettingsItem(StartVRSettingsEnum.START_VR_SETTINGS_ITEM_WIFI, true, 0);
     }
 
-    public void LaunchApp()
+    public void LaunchVideoPlayer()
     {
-        //PXR_Enterprise.StartActivity();
+        PXR_Enterprise.StartActivity("", "", "picovr.intent.action.player", "", new string[] { }, new int[] { });
+    }
+
+    public void StartFloorSetting()
+    {
+        PXR_Enterprise.GotoSeeThroughFloorSetting();
     }
 
 
