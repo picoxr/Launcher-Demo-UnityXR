@@ -1,5 +1,8 @@
 # Description
 PICO Enterprise devices offer the possibility of setting installed applications as their main launcher app. This is not only useful when setting up a kiosk mode, but also helps when we want the end user access only a set of different apps and options.
+
+![image](https://github.com/picoxr/Launcher-Demo-UnityXR/assets/15983798/e0bbbeac-a7c6-48be-af88-47c94923b707)
+
 # Demo requirements
 - Unity 2022.3.f1
 - PICO XR SDK 2.4.0
