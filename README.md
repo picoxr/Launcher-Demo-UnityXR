@@ -4,8 +4,8 @@ PICO Enterprise devices offer the possibility of setting installed applications 
 ![image](https://github.com/picoxr/Launcher-Demo-UnityXR/assets/15983798/e0bbbeac-a7c6-48be-af88-47c94923b707)
 
 # Demo requirements
-- Unity 2022.3.f1
-- PICO XR SDK 2.4.0
+- Unity 2022.24.f1
+- PICO XR SDK 3.0.0
 # Dependencies (UPM)
 - XR Interaction Toolkit 2.5.2 + Starter Assets
 - Android Logcat
