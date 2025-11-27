@@ -11,11 +11,11 @@ PICO Enterprise devices offer the possibility of setting installed applications 
 - Android Logcat
 # Example methods
 The LauncherUtils.cs class shows how to use several Enterprise SDK methods:
-- PXR_Enterprise.StartVrSettingsItem: https://developer-global.pico-interactive.com/reference/unity/latest/PXR_Enterprise/#StartVrSettingsItem
-- PXR_Enterprise.StartActivity: https://developer-global.pico-interactive.com/reference/unity/latest/PXR_Enterprise/#StartActivity
-- PXR_Enterprise.GotoSeeThroughFloorSetting: https://developer-global.pico-interactive.com/reference/unity/latest/PXR_Enterprise/#bd4f531c
-- PXR_Enterprise.ControlSetDeviceAction: https://developer-global.pico-interactive.com/reference/unity/latest/PXR_Enterprise/#ControlSetDeviceAction
-- PXR_Enterprise.SetAPPAsHome: https://developer-global.pico-interactive.com/reference/unity/latest/PXR_Enterprise/#SetAPPAsHome
+- PXR_Enterprise.StartVrSettingsItem: https://developer.picoxr.com/reference/unity/client-api/PXR_Enterprise/#15ef551e
+- PXR_Enterprise.StartActivity: https://developer.picoxr.com/reference/unity/client-api/PXR_Enterprise/#68ce6af2
+- PXR_Enterprise.GotoSeeThroughFloorSetting: https://developer.picoxr.com/reference/unity/client-api/PXR_Enterprise/#62559d31
+- PXR_Enterprise.ControlSetDeviceAction: https://developer.picoxr.com/reference/unity/client-api/PXR_Enterprise/#cab2ecc9
+- PXR_Enterprise.SetAPPAsHome: https://developer.picoxr.com/reference/unity/client-api/PXR_Enterprise/#b41a2893
 
 Note: PXR_Enterprise.SetAPPAsHome requires rebooting the device in order to take effect.
 # Demo
