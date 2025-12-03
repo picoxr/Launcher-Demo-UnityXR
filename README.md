@@ -26,3 +26,7 @@ To provide more intuitive way of configuring Kiosk Mode, we’ve built a functio
 1. Click Settings > Developer> Business settings>Home Screen. 
 2. Select the application that you want to use for Kiosk Mode. 
 3. Reboot the device
+
+#License
+
+This project uses unity related components, if you want to share, modify, sell or distribute these components, please reach out to Unity for authorization.
